@@ -1,5 +1,9 @@
 # Detection_visages
-## AUTEUR
+
+## Description
+Application de détection de visages.
+
+## Auteur
 ANGOR RACHILDE NORA
 
 ## Technologies Utilisées
